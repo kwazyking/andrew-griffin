@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/Kyusung4698/PoE-Overlay",
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.900.6",
+    "@angular-devkit/build-angular": "^16.0.0",
     "@angular/cli": "^9.0.6",
     "@angular/compiler-cli": "^9.0.6",
     "@angular/language-service": "^9.0.6",
